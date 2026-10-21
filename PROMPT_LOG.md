@@ -38,7 +38,7 @@ Sau đó mình yêu cầu ngắn gọn: **"thiết kế một website chủ đ�
 - **Nhận xét & Tinh chỉnh của SV:** 
 
 
-## ## 3. Đánh giá cá nhân về quá trình Vibe Coding
+ ## 3. Đánh giá cá nhân về quá trình Vibe Coding
 
 - **AI đã giúp bạn tiết kiệm thời gian ở phần nào nhất?**
   AI giúp mình tiết kiệm thời gian nhất ở phần dựng khung HTML/CSS ban đầu. Chỉ với một prompt có đề bài, mình đã có sẵn cấu trúc semantic, bảng màu bằng CSS Variables và nội dung mẫu cho website. AI cũng giúp mình chia code thành nhiều bước để làm đủ số commit mà đề bài yêu cầu.
